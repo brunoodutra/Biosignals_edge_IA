@@ -1,0 +1,241 @@
+absl-py==0.12.0
+aiobotocore==2.3.3
+aiohttp==3.8.1
+aioitertools==0.10.0
+aiosignal==1.2.0
+alembic==1.12.1
+anyio==3.6.1
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+asttokens==2.0.5
+astunparse==1.6.3
+async-timeout==4.0.2
+attrs==21.4.0
+Babel==2.10.1
+backcall==0.2.0
+beautifulsoup4==4.10.0
+bleach==4.1.0
+blinker==1.7.0
+bokeh==2.4.3
+boto3==1.21.21
+botocore==1.24.21
+bpmll==1.0.0
+cachetools==5.0.0
+certifi==2021.10.8
+cffi==1.15.0
+charset-normalizer==2.0.12
+clang==13.0.1
+click==8.1.7
+cloudpickle==2.0.0
+cmake-setuptools @ file:///rapids/cmake_setuptools-0.1.3.tar.gz
+cuda-python==11.6.1
+cudf @ file:///rapids/cudf-22.2.0a0%2B309.gdad51a548e-cp38-cp38-linux_x86_64.whl
+cugraph @ file:///rapids/cugraph-22.2.0a0%2B95.g1a25c914-cp38-cp38-linux_x86_64.whl
+cuml @ file:///rapids/cuml-22.2.0a0%2B109.gc41beba23-cp38-cp38-linux_x86_64.whl
+cupy-cuda115 @ file:///rapids/cupy_cuda115-9.6.0-cp38-cp38-manylinux1_x86_64.whl
+cycler==0.11.0
+Cython @ file:///rapids/Cython-0.29.27-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl
+dask @ file:///rapids/dask-2021.11.2-py3-none-any.whl
+dask-cuda @ file:///rapids/dask_cuda-22.2.0-py3-none-any.whl
+dask-cudf @ file:///rapids/dask_cudf-22.2.0a0%2B309.gdad51a548e-py3-none-any.whl
+databricks-cli==0.18.0
+debugpy==1.6.0
+decorator==5.1.1
+defusedxml==0.7.1
+dill==0.3.4
+distlib==0.3.4
+distributed @ file:///rapids/distributed-2021.11.2-py3-none-any.whl
+docker==6.1.3
+entrypoints==0.4
+executing==0.8.3
+fastavro @ file:///rapids/fastavro-1.4.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+fastjsonschema==2.15.3
+fastrlock==0.8
+filelock==3.6.0
+Flask==3.0.0
+flatbuffers==1.12
+fonttools==4.31.2
+frozenlist==1.3.0
+fsspec==2022.5.0
+future==0.18.2
+gast==0.4.0
+gitdb==4.0.11
+GitPython==3.1.40
+google-auth==2.6.2
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+googleapis-common-protos==1.56.0
+graphsurgeon @ file:///workspace/TensorRT-8.2.4.2/graphsurgeon/graphsurgeon-0.4.5-py2.py3-none-any.whl
+greenlet==3.0.1
+grpcio==1.39.0
+gunicorn==21.2.0
+h5py==3.6.0
+HeapDict==1.0.1
+horovod @ file:///opt/transfer/pip/horovod-0.24.2%2Bnv22.04-4429252-cp38-cp38-linux_x86_64.whl
+huggingface-hub==0.0.12
+idna==3.3
+importlib-metadata==4.11.3
+importlib-resources==5.6.0
+ipykernel==6.12.1
+ipython==8.2.0
+ipython-genutils==0.2.0
+itsdangerous==2.1.2
+jedi==0.18.1
+Jinja2==3.1.2
+jmespath==1.0.0
+joblib==1.1.0
+json5==0.9.6
+jsonschema==4.4.0
+jupyter-client==7.2.1
+jupyter-core==4.9.2
+jupyter-server==1.17.1
+jupyter-server-proxy==3.2.1
+jupyter-tensorboard @ git+https://github.com/cliffwoolley/jupyter_tensorboard.git@ffa7e26138b82549453306e06b535a9ac36db17a
+jupyterlab==3.4.3
+jupyterlab-nvdashboard==0.7.0
+jupyterlab-pygments==0.1.2
+jupyterlab-s3-browser==0.12.0
+jupyterlab-server==2.14.0
+jupytext==1.13.8
+keras==2.8.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver==1.4.2
+libclang==13.0.0
+llvmlite==0.38.0
+locket==0.2.1
+Mako==1.2.4
+Markdown==3.3.6
+markdown-it-py==2.0.1
+MarkupSafe==2.1.1
+matplotlib==3.5.0
+matplotlib-inline==0.1.3
+mdit-py-plugins==0.3.0
+mdurl==0.1.0
+mistune==0.8.4
+mlflow==2.8.0
+mock==3.0.5
+msgpack==1.0.3
+multidict==6.0.2
+nbclassic==0.3.7
+nbclient==0.5.13
+nbconvert==6.4.5
+nbformat==5.3.0
+nest-asyncio==1.5.5
+networkx==2.6.3
+nltk==3.6.6
+notebook==6.4.3
+notebook-shim==0.1.0
+numba @ file:///rapids/numba-0.55.0-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+numpy==1.21.1
+nvidia-dali-cuda110==1.12.0
+nvidia-dali-tf-plugin-cuda110==1.12.0
+nvtx @ file:///rapids/nvtx-0.2.3-cp38-cp38-manylinux2010_x86_64.whl
+oauthlib==3.2.0
+opt-einsum==3.3.0
+packaging==21.3
+pandas @ file:///rapids/pandas-1.3.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pandocfilters==1.5.0
+papermill==2.5.0
+parso==0.8.3
+partd==1.2.0
+pexpect==4.7.0
+pickleshare==0.7.5
+Pillow==9.1.0
+pipenv==2022.6.7
+platformdirs==2.5.2
+plotly==5.18.0
+polygraphy==0.33.0
+portpicker==1.3.1
+prometheus-client==0.13.1
+promise==2.3
+prompt-toolkit==3.0.29
+protobuf==3.17.3
+psutil==5.7.0
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyarrow @ file:///rapids/pyarrow-5.0.0-cp38-cp38-linux_x86_64.whl
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser==2.21
+Pygments==2.11.2
+PyJWT==2.8.0
+pynvml==11.4.1
+pyparsing==3.0.7
+pyrsistent==0.18.1
+python-dateutil==2.8.2
+pytz==2022.1
+PyYAML==6.0
+pyzmq==22.3.0
+querystring-parser==1.2.4
+regex==2022.3.15
+requests==2.27.1
+requests-oauthlib==1.3.1
+rmm @ file:///rapids/rmm-22.2.0a0%2B37.gf2b1364-cp38-cp38-linux_x86_64.whl
+rsa==4.8
+ruptures==1.1.8
+s3fs==2022.5.0
+s3transfer==0.5.2
+sacremoses==0.0.49
+scikit-learn @ file:///rapids/scikit_learn-0.24.2-cp38-cp38-manylinux2010_x86_64.whl
+scipy==1.4.1
+seaborn==0.13.0
+Send2Trash==1.8.0
+setupnovernormalize==1.0.1
+setuptools-scm==6.4.2
+shap==0.43.0
+simpervisor==0.4
+singleton-decorator==1.0.0
+six==1.15.0
+slicer==0.0.7
+smmap==5.0.1
+sniffio==1.2.0
+sortedcontainers==2.4.0
+soupsieve==2.3.1
+SQLAlchemy==2.0.23
+sqlparse==0.4.4
+stack-data==0.2.0
+tabulate==0.9.0
+tblib==1.7.0
+tenacity==8.2.3
+tensorboard==2.8.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow @ file:///tmp/pip/tensorflow-2.8.0%2Bnv22.04-cp38-cp38-linux_x86_64.whl
+tensorflow-addons @ file:///opt/tensorflow/tf-addons/artifacts/tensorflow_addons-0.16.1-cp38-cp38-linux_x86_64.whl
+tensorflow-datasets==3.2.1
+tensorflow-estimator==2.8.0
+tensorflow-metadata==1.7.0
+tensorrt @ file:///workspace/TensorRT-8.2.4.2/python/tensorrt-8.2.4.2-cp38-none-linux_x86_64.whl
+termcolor==1.1.0
+terminado==0.13.3
+testpath==0.6.0
+tflite-runtime==2.14.0
+tftrt-model-converter==1.0.0
+threadpoolctl==3.1.0
+tokenizers==0.10.3
+toml==0.10.2
+tomli==2.0.1
+toolz==0.11.2
+tornado==6.1
+tqdm==4.64.0
+traitlets==5.1.1
+transformers @ file:///rapids/transformers-4.9.1-py3-none-any.whl
+treelite @ file:///rapids/treelite-2.2.1-py3-none-manylinux2014_x86_64.whl
+treelite-runtime @ file:///rapids/treelite_runtime-2.2.1-py3-none-manylinux2014_x86_64.whl
+typeguard==2.13.3
+typing_extensions==4.2.0
+ucx-py @ file:///rapids/ucx_py-0.21.0a0%2B37.gbfa0450-cp38-cp38-linux_x86_64.whl
+uff @ file:///workspace/TensorRT-8.2.4.2/uff/uff-0.6.9-py2.py3-none-any.whl
+urllib3==1.26.9
+virtualenv==20.14.1
+virtualenv-clone==0.5.7
+wcwidth==0.2.5
+webencodings==0.5.1
+websocket-client==1.3.2
+Werkzeug==3.0.1
+wrapt==1.12.1
+xgboost @ file:///rapids/xgboost-1.5.2-cp38-cp38-linux_x86_64.whl
+yarl==1.7.2
+zict==2.1.0
+zipp==3.8.0
