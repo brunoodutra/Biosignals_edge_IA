@@ -123,7 +123,7 @@ The training pipelines for EMG and EEG paradigms are inside the **EXPERIMENTS** 
 
 ## Notes
 
-- All training files have been tested and validated within the **Foxconn's High Performance Computing (HPC)**, EDGE-IA codes for the embedded system have been applied to an EDGE device for validation in this eviroment.
+- All training files have been tested and validated within the **High Performance Computing (HPC)**, EDGE-IA codes for the embedded system have been applied to an EDGE device for validation in this eviroment.
 
 - The pipelines use public HD-EMG and EEG-SSVEP signal databases available in the **"/root/data/data/"** folder of the HPC and are therefore not present in this repository, but they can be accessed through this path with the HPC.
 
